@@ -1,0 +1,76 @@
+const menu = [
+    {
+        id: 1,
+        title: 'buttermilk pancakes',
+        category: 'breakfast',
+        price: 13.99,
+        img: './images/item_1.jpeg',
+        desc: `The BEST Fluffy Buttermilk Pancakes you’ll ever try – promise! This easy to follow pancake recipe yields super delicious and totally amazing pancakes every time!  `,
+    },
+    {
+        id: 2,
+        title: 'glutton snack',
+        category: 'lunch',
+        price: 19.99,
+        img: './images/item_2.jpeg',
+        desc: `Sink your teeth into a delicious restaurant-style, hamburger recipe made from lean beef. Skip the prepackaged patties and take the extra time to craft up your own, and that little extra effort will be worth it. `,
+    },
+    {
+        id: 3,
+        title: 'godzilla milkshake',
+        category: 'shakes',
+        price: 7.99,
+        img: './images/item_3.jpeg',
+        desc: `Milo blended with banana & mint chocolate chip ice cream, drizzled with melted chocolate & topped with more ice.`,
+    },
+    {
+        id: 4,
+        title: 'English breakfast',
+        category: 'breakfast',
+        price: 21.99,
+        img: './images/item_4.jpeg',
+        desc: `English breakfast is a dish that consists of a number of components such as back bacon, eggs, British sausage, baked beans, fried tomato, fried mushrooms, black pudding, and fried and toasted bread; however, these can vary depending on where you are in Great Britain.  `,
+    },
+    {
+        id: 5,
+        title: 'egg Drop',
+        category: 'breakfast',
+        price: 18.99,
+        img: './images/item_5.jpeg',
+        desc: `The Egg Drop, a quirky breakfast and brunch delivery business that emerged out of the lockdown abyss last year, has applied for a licence from Plymouth City Council to open a new venue in Plymstock Broadway. `,
+    },
+    {
+        id: 6,
+        title: 'oreo cream',
+        category: 'shakes',
+        price: 16.99,
+        img: './images/item_6.jpeg',
+        desc: `OREO® Cookies baked in our creamy Cheesecake with layers of fudge cake and OREO® Cookie mousse. Topped with a milk chocolate icing.`,
+    },
+    {
+        id: 7,
+        title: 'bacon burger',
+        category: 'lunch',
+        price: 20.99,
+        img: './images/item_7.jpeg',
+        desc: `These bacon burgers can be grilled, pan-grilled, broiled, or baked. Simple seasonings and diced bacon make these burgers juicy and delicious. `,
+    },
+    {
+        id: 8,
+        title: 'menu free',
+        category: 'lunch',
+        price: 10.99,
+        img: './images/item_8.jpeg',
+        desc: `These bacon burgers can be grilled, pan-grilled, broiled, or baked. Simple seasonings and diced bacon make these burgers juicy and delicious.  `,
+    },
+    {
+        id: 9,
+        title: 'Chocolate Shake',
+        category: 'shakes',
+        price: 24.99,
+        img: './images/item_9.jpeg',
+        desc: `When it gets hot, try this classic cold treat. This easy chocolate milkshake recipe combines your favorite ice cream with HERSHEY'S Cocoa powder for a frozen dessert that will make your summer sweeter.  `
+    },
+
+];
+export default menu;
